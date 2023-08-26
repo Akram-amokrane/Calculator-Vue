@@ -12,7 +12,7 @@
     }
 </script>
 <template>
-    <div class="relative w-[95%] md:w-2/5 lg:w-1/5 h-3/4">
+    <div class="relative w-[95%] md:w-2/5 lg:w-1/5 h-[95%] mdh-3/4">
     <div class="w-full h-full relative bg-white dark:bg-slate-900 rounded-3xl pt-4 drop-shadow-xl overflow-hidden">
         <div class="w-full h-2/5">
             <Header></Header>
